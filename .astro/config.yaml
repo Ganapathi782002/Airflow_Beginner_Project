@@ -1,0 +1,6 @@
+project:
+   name: astro-project
+webserver:
+   port: 8081
+postgres:
+  port: 5435
