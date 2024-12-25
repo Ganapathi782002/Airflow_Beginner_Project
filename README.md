@@ -8,3 +8,5 @@ This project demonstrates a simple **ETL** (Extract, Transform, Load) pipeline u
 - **yfinance**: To fetch stock price data from Yahoo Finance.
 - **pandas**: For transforming the fetched stock price data.
 - **CrateDB**: A distributed SQL database to load the transformed data.
+
+For any queries, feel free to reach **ganapathikannikeswaran@gmail.com**
