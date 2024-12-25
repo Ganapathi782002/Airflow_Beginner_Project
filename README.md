@@ -9,4 +9,5 @@ This project demonstrates a simple **ETL** (Extract, Transform, Load) pipeline u
 - **pandas**: For transforming the fetched stock price data.
 - **CrateDB**: A distributed SQL database to load the transformed data.
 
+## Contact
 For any queries, feel free to reach **ganapathikannikeswaran@gmail.com**
